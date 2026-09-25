@@ -26,6 +26,40 @@ Esos 6 arreglos de $y$ generan estas pendientes:
     
 
 De estas 6 opciones, **3** son iguales o mayores a tu pendiente original ($0.5$). Por lo tanto, tu "p-valor" empírico es $3/6 = 0.5$. Con un p-valor del 50%, concluyes que la tendencia original no es estadísticamente significativa; es muy probable que sea producto del azar.
+### Antes que nada: ¿qué significa remuestrear?
+Supongamos que tenemos estas temperaturas:
+
+```
+20, 21, 19, 23, 22
+```
+
+Nuestra muestra tiene solamente 5 observaciones.
+
+Una computadora puede crear una nueva muestra seleccionando datos **de los que ya tenemos**.
+
+Por ejemplo:
+
+```
+22, 20, 20, 23, 19
+```
+
+Otra:
+
+```
+21, 23, 23, 19, 22
+```
+
+Otra:
+
+```
+20, 20, 21, 22, 19
+```
+
+Cada una es una especie de **"muestra simulada"**.
+
+Si hacemos esto 10,000 veces, podemos observar cómo cambia nuestro resultado.
+
+Eso es la esencia del **remuestreo**.
 
 **Tu turno (Ejercicio)**
 

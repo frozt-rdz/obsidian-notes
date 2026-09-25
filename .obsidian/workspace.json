@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B4 Regresión lineal/OLS.md",
+                "file": "B Probabilidad y estadística/B5 Remuestreo/Bootstrap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OLS"
+              "title": "Bootstrap"
             }
           }
         ],
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 735.0999755859375
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +217,12 @@
   },
   "active": "c6a07f70099bbc77",
   "lastOpenFiles": [
+    "B Probabilidad y estadística/B5 Remuestreo/Remuestro.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap.md",
+    "B Probabilidad y estadística/B4 Regresión lineal/OLS.md",
     "B Probabilidad y estadística/B4 Regresión lineal/Sumatoria.md",
     "B Probabilidad y estadística/B4 Regresión lineal/Función lineal.md",
     "B Probabilidad y estadística/B4 Regresión lineal/Regresión Lineal Ordinaria.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Remuestro.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/OLS.md",
     "B Probabilidad y estadística/B5 Remuestreo",
     "B Probabilidad y estadística/B4 Regresión lineal/El Gradiente Descendente.md",
     "Nueva carpeta",
