@@ -136,3 +136,114 @@ muestra = rng.choice(datos, size=len(datos), replace=True)
 significa:
 
 > "Selecciona 5 elementos de `datos`, permitiendo repetirlos."
+
+# ¿Por qué `2.5` y `97.5`?
+
+Queremos el 95 % central de los resultados.
+
+Visualmente:
+
+```
+ |----------- 95% -----------|
+2.5%                         97.5%
+ |                              |
+ ↓                              ↓
+----------------------------------
+```
+
+Los extremos representan aproximadamente el 5 % que queda fuera:
+
+```
+2.5% + 95% + 2.5% = 100%
+```
+
+Por eso usamos:
+
+```
+np.percentile(bootstrap_stats, [2.5, 97.5])
+```
+
+Este método suele llamarse **percentile bootstrap**.
+
+# Visualicemos el Bootstrap
+
+Esto ayuda muchísimo para entenderlo.
+
+```
+import matplotlib.pyplot as plt
+
+plt.hist(bootstrap_stats, bins=20)
+
+plt.axvline(ic[0], linestyle="--")
+plt.axvline(ic[1], linestyle="--")
+
+plt.xlabel("Mediana bootstrap")
+plt.ylabel("Frecuencia")
+plt.title("Distribución Bootstrap de la mediana")
+
+plt.show()
+```
+
+Verás algo parecido a:
+
+```
+             ███
+             █████
+         ███████████
+       ███████████████
+    ███████████████████
+██████████████████████████
+----|-------------------|----
+   2.5%                97.5%
+```
+
+La idea importante es:
+
+> **El bootstrap convierte una sola estimación en una distribución de estimaciones posibles.**
+
+# Bootstrap NO significa "hacer datos nuevos"
+
+Esto es muy importante.
+
+No estamos afirmando:
+
+> "Estos datos son datos reales nuevos."
+
+Estamos diciendo:
+
+> "Voy a utilizar mi muestra como aproximación de la población y simular qué podría pasar si volviera a tomar muestras."
+
+Es una especie de **experimento estadístico por computadora**.
+# ¿Por qué es útil si no suponemos normalidad?
+
+Muchos métodos estadísticos clásicos empiezan suponiendo:
+
+```
+Los datos siguen una distribución normal
+```
+
+Pero el bootstrap puede trabajar con distribuciones bastante diferentes.
+
+Por ejemplo:
+
+```
+5, 6, 7, 8, 9, 100
+```
+
+Claramente hay un valor extremo.
+
+No necesitamos asumir automáticamente:
+
+```
+Campana de Gauss
+```
+
+para construir una aproximación empírica de la incertidumbre.
+
+### Pero cuidado
+
+Bootstrap **no significa que no haya ninguna suposición**.
+
+El bootstrap ordinario necesita, en términos generales, que las observaciones sean suficientemente independientes e intercambiables.
+
+Eso se vuelve problemático en **series temporales**, y justamente por eso existe el bootstrap por bloques.
