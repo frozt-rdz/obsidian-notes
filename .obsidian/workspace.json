@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B4 Regresión lineal/El Gradiente Descendente.md",
+                "file": "B Probabilidad y estadística/B4 Regresión lineal/OLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El Gradiente Descendente"
+              "title": "OLS"
             }
           }
         ],
@@ -184,13 +184,23 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "f01b8730f539b18f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 735.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,18 +210,22 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c6a07f70099bbc77",
   "lastOpenFiles": [
-    "Nueva carpeta",
-    "B Probabilidad y estadística/B4 Regresión lineal/Regresión Lineal Ordinaria.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/Función lineal.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/Función de costo.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/El Gradiente Descendente.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Sumatoria.md",
+    "B Probabilidad y estadística/B4 Regresión lineal/Función lineal.md",
+    "B Probabilidad y estadística/B4 Regresión lineal/Regresión Lineal Ordinaria.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Remuestro.md",
+    "B Probabilidad y estadística/B4 Regresión lineal/OLS.md",
+    "B Probabilidad y estadística/B5 Remuestreo",
+    "B Probabilidad y estadística/B4 Regresión lineal/El Gradiente Descendente.md",
+    "Nueva carpeta",
+    "B Probabilidad y estadística/B4 Regresión lineal/Función de costo.md",
+    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes",

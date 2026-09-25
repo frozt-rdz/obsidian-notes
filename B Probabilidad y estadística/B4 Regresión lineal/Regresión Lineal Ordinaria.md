@@ -65,7 +65,7 @@ Entonces: $$b=\frac{6}{5}=1.2$$
 Para cerrar este tema y dar por dominado el bloque B4, responde estas 3 preguntas de verificación basadas en los conceptos del temario:
 
 1. ¿Qué nos indica el valor R² al aplicar una regresión lineal a una serie de datos de la NASA?
-    
+    La medida en que los cambios a predecir pueden explicarse con los datos que estoy utilizando.
 2. Si al graficar notas que la varianza de los residuos cambia a lo largo de tu serie de tiempo, ¿Qué supuesto esencial de la regresión OLS está fallando?
-    
-3. ¿Por qué el problema de la autocorrelación te arrojará p-valores demasiado optimistas al detectar tendencias?
+    Varianza constante.
+3. ¿Por qué el problema de la autocorrelación te arrojará p-valores demasiado optimistas al detectar tendencias? Por que la prueba cree que tiene más datos de los que realmente tiene.
