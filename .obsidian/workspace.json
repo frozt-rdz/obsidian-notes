@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon vs Kendall.md",
+                "file": "B Probabilidad y estadística/B1 Probabilidad básica/Esperanza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wilcoxon vs Kendall"
+              "title": "Esperanza"
             }
           }
         ]
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 743.0999755859375
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,12 +202,24 @@
   },
   "active": "5b994bc9902e85c5",
   "lastOpenFiles": [
+    "B Probabilidad y estadística/B1 Probabilidad básica/Variable aleatoria.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Esperanza.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Independencia.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidad condicional.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional.py",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional-py",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Eventos y operaciones.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Espacio muestral.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Introducción a la probabilidad.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidad de un evento.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Python y probabilidad básica.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidadado.py",
+    "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon vs Kendall.md",
     "B Probabilidad y estadística/B1 Probabilidad básica",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos.md",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Ejemplo.md",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos2.py",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall3.py",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon vs Kendall.md",
     "Sin título 1.base",
     "Sin título.base",
     "2026-09-25.md",
@@ -215,12 +228,8 @@
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon2.py",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon.py",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall2.py",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.py",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Tau de Kendall.md",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Métodos no paramétricos.md",
-    "Sin título 2.base",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos.py",
     "B Probabilidad y estadística/B5 Remuestreo/Ejemplo completo.md",
     "B Probabilidad y estadística/B5 Remuestreo/Relación Detective.md",
     "B Probabilidad y estadística/B5 Remuestreo/Bootstrap con bloques por python.md",
@@ -230,13 +239,8 @@
     "B Probabilidad y estadística/B5 Remuestreo/Remuestro.md",
     "B Probabilidad y estadística/B4 Regresión lineal/OLS.md",
     "B Probabilidad y estadística/B4 Regresión lineal/Sumatoria.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/Función lineal.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/Regresión Lineal Ordinaria.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/El Gradiente Descendente.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/Función de costo.md",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
-    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png",
-    "Bienvenido.md"
+    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png"
   ]
 }
