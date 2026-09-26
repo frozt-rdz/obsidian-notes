@@ -77,7 +77,7 @@ Esto es muy importante.
 Si varios valores empatan:
 
 > **Todos reciben el promedio de los rangos que ocuparían.**
-> # Python: calcular rangos
+# Python: calcular rangos
 
 Podemos hacerlo con SciPy.
 
@@ -112,3 +112,66 @@ Resultado:
 ```
 [1.  2.5 2.5 4. ]
 ```
+
+# ¿Por qué usar rangos?
+
+Imagina dos conjuntos:
+
+```
+A = 10, 20, 30, 40, 50
+B = 10, 20, 30, 40, 5000
+```
+
+El último valor de B es enorme.
+
+Pero sus rangos son:
+
+```
+A:
+1, 2, 3, 4, 5
+
+B:
+1, 2, 3, 4, 5
+```
+
+Desde el punto de vista del orden, son iguales.
+
+Esto explica intuitivamente por qué las pruebas basadas en rangos suelen ser menos sensibles a la magnitud de un valor extremo.
+
+# Ejemplo visual de rangos
+
+Prueba este código:
+
+```
+from scipy.stats import rankdata
+
+datos = [15, 12, 18, 12, 20]
+
+rangos = rankdata(datos)
+
+for dato, rango in zip(datos, rangos):
+    print(f"{dato} → rango {rango}")
+```
+
+Obtendrás algo equivalente a:
+
+```
+15 → rango 3
+12 → rango 1.5
+18 → rango 4
+12 → rango 1.5
+20 → rango 5
+```
+
+¿Por qué `12` tiene rango `1.5`?
+
+Porque ocupa:
+
+```
+rango 1
+rango 2
+```
+
+y:
+
+$$\frac{1+2}{2}=1.5$$
