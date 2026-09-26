@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B5 Remuestreo/Bootstrap para una pendiente.md",
+                "file": "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap para una pendiente"
+              "title": "Rangos"
             }
           }
         ],
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 829.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +217,18 @@
   },
   "active": "c6a07f70099bbc77",
   "lastOpenFiles": [
-    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap.md",
+    "B Probabilidad y estadística/B6 Métodos no paramétricos/Métodos no paramétricos.md",
+    "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Ejemplo completo.md",
+    "B Probabilidad y estadística/B6 Métodos no paramétricos",
+    "B Probabilidad y estadística/B5 Remuestreo/Relación Detective.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap con bloques por python.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Autocorrelación.md",
     "B Probabilidad y estadística/B5 Remuestreo/Bootstrap para una pendiente.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Permutartendencia.py",
+    "B Probabilidad y estadística/B5 Remuestreo/Pruebapermutacion.py",
+    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap.md",
+    "B Probabilidad y estadística/B5 Remuestreo/IncertidumbreLineal.py",
     "B Probabilidad y estadística/B5 Remuestreo/Intervalosconfianza.py",
     "B Probabilidad y estadística/B4 Regresión lineal/Funcionlineal.py",
     "B Probabilidad y estadística/B5 Remuestreo/Remuestro.md",
@@ -234,9 +245,6 @@
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes",
     "B Probabilidad y estadística/B4 Regresión lineal",
-    "B Probabilidad y estadística",
-    "Funcionlineal.py",
-    "Bienvenido.md",
-    "desktop.ini"
+    "Bienvenido.md"
   ]
 }
