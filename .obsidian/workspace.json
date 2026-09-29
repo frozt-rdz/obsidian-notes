@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B1 Probabilidad básica/Esperanza.md",
+                "file": "B Probabilidad y estadística/B2 Distribuciones/Z mayor o igual a 1.96.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esperanza"
+              "title": "Z mayor o igual a 1.96"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.30001831054688
   },
   "right": {
     "id": "0ec8219f1d339b34",
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.0999755859375
+    "width": 946.2999877929688
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,45 +199,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b994bc9902e85c5",
+  "active": "f01b8730f539b18f",
   "lastOpenFiles": [
-    "B Probabilidad y estadística/B1 Probabilidad básica/Variable aleatoria.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Esperanza.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Independencia.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidad condicional.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional.py",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional-py",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Eventos y operaciones.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Espacio muestral.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Introducción a la probabilidad.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidad de un evento.md",
+    "B Probabilidad y estadística/B2 Distribuciones/Puntaje Z.md",
+    "B Probabilidad y estadística/B2 Distribuciones/p-value.md",
+    "B Probabilidad y estadística/B2 Distribuciones/Media muestral.md",
+    "B Probabilidad y estadística/B2 Distribuciones/Introducción.md",
+    "B Probabilidad y estadística/B2 Distribuciones/Distribución normal.md",
+    "B Probabilidad y estadística/B2 Distribuciones/Regla 68–95–99.7.md",
     "B Probabilidad y estadística/B1 Probabilidad básica/Python y probabilidad básica.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidadado.py",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon vs Kendall.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Ejemplo.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos2.py",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall3.py",
-    "Sin título 1.base",
-    "Sin título.base",
-    "2026-09-25.md",
-    "Sin título.canvas",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon2.py",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon.py",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Tau de Kendall.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Métodos no paramétricos.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Ejemplo completo.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Relación Detective.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap con bloques por python.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Resumen.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Variable aleatoria.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Varianza.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Esperanza.md",
     "B Probabilidad y estadística/B5 Remuestreo/Autocorrelación.md",
     "B Probabilidad y estadística/B5 Remuestreo/Bootstrap para una pendiente.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Ejemplo completo.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Relación Detective.md",
     "B Probabilidad y estadística/B5 Remuestreo/Remuestro.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/OLS.md",
-    "B Probabilidad y estadística/B4 Regresión lineal/Sumatoria.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap.md",
+    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap con bloques por python.md",
+    "B Probabilidad y estadística/B6 Métodos no paramétricos/Tau de Kendall.md",
+    "B Probabilidad y estadística/B2 Distribuciones/TLC.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/zypvalue.py",
+    "B Probabilidad y estadística/B2 Distribuciones/Z mayor o igual a 1.96.md",
+    "B Probabilidad y estadística/B2 Distribuciones",
+    "B Probabilidad y estadística/B2 Distribuciones.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Ejemplo completo.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Correlación.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/CorrelacionC.py",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Covarianza.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Media vs esperanza.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/VarianzaDesviacion.py",
+    "B Probabilidad y estadística/B1 Probabilidad básica/EsperanzaE.py",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional.py",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional-py",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidadado.py",
+    "B Probabilidad y estadística/B1 Probabilidad básica",
+    "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos2.py",
+    "Sin título.canvas",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png"
