@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 946.2999877929688
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f01b8730f539b18f",
+  "active": "5b994bc9902e85c5",
   "lastOpenFiles": [
     "B Probabilidad y estadística/B2 Distribuciones/Puntaje Z.md",
     "B Probabilidad y estadística/B2 Distribuciones/p-value.md",
