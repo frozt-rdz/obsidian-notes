@@ -179,13 +179,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7d5b2157625b701d",
+            "type": "leaf",
+            "state": {
+              "type": "pivi-view",
+              "state": {},
+              "icon": "pivi-p",
+              "title": "Pivi"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 568.7000122070312
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +206,11 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pivi:Open Pivi": false
     }
   },
-  "active": "5b994bc9902e85c5",
+  "active": "7d5b2157625b701d",
   "lastOpenFiles": [
     "B Probabilidad y estadística/B2 Distribuciones/Puntaje Z.md",
     "B Probabilidad y estadística/B2 Distribuciones/p-value.md",

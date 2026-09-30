@@ -1,0 +1,61 @@
+{
+  "userName": "",
+  "thinkingBudget": "off",
+  "thinkingLevel": "medium",
+  "enableAutoTitleGeneration": true,
+  "excludedTags": [],
+  "deletedSessionRetentionDays": 30,
+  "providerRequestDeadlines": {
+    "totalMs": 600000,
+    "idleMs": 0
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "locale": "es",
+  "tabBarPosition": "input",
+  "enableAutoScroll": true,
+  "deferMathRenderingDuringStreaming": true,
+  "showCacheHitRate": true,
+  "showTokensPerSecond": true,
+  "chatViewPlacement": "right-sidebar",
+  "hiddenSlashCommands": [],
+  "workspaceCommandOrder": [],
+  "editorSelectionToolbar": {
+    "enabled": true,
+    "shortcuts": [
+      {
+        "id": "inline-edit",
+        "kind": "pivi-action",
+        "actionId": "inline-edit",
+        "enabled": true
+      },
+      {
+        "id": "add-to-chat",
+        "kind": "pivi-action",
+        "actionId": "add-to-chat",
+        "enabled": true
+      }
+    ]
+  },
+  "promptModules": {},
+  "customPromptModules": [],
+  "defaultWorkspaceCommandsSeeded": true,
+  "customContextLimits": {},
+  "agentSettings": {
+    "selectedMode": "default",
+    "subagents": {
+      "enabled": true,
+      "maxConcurrentSubagents": 3,
+      "allowBackground": true
+    },
+    "obsidianTools": {
+      "cliEnabled": false,
+      "cliPath": null,
+      "cliTimeoutMs": 30000,
+      "defaultReadMaxChars": 100000,
+      "disabledTools": [],
+      "allowCommand": false,
+      "allowBash": false,
+      "allowExternalRead": false
+    }
+  }
+}
