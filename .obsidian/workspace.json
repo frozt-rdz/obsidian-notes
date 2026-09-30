@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B2 Distribuciones/Z mayor o igual a 1.96.md",
+                "file": "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Z mayor o igual a 1.96"
+              "title": "Kendall"
             }
           }
         ]
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.7000122070312
+    "width": 264.83331298828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +199,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b994bc9902e85c5",
+  "active": "9d442d699e2e5bdd",
   "lastOpenFiles": [
+    "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf.crswap",
+    "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf",
+    "Recursos SpaceApps/Papers/ast.2018.1838_copy.pdf.crswap",
+    "Recursos SpaceApps/Papers/ast.2018.1838_copy.pdf",
+    "Recursos SpaceApps/Papers/ICES_SEXTANTpaper_2011-345_copy.pdf.crswap",
+    "Recursos SpaceApps/Papers/ICES_SEXTANTpaper_2011-345_copy.pdf",
+    "Recursos SpaceApps/Guia detective.pdf",
+    "Recursos SpaceApps/Temario y habilidad para Detective.pdf.crswap",
+    "Recursos SpaceApps/Temario y habilidad para Detective.pdf",
+    "Recursos SpaceApps/Papers",
+    "Sin nombre",
+    "B Probabilidad y estadística/B2 Distribuciones/Z mayor o igual a 1.96.md",
     "B Probabilidad y estadística/B2 Distribuciones/Puntaje Z.md",
     "B Probabilidad y estadística/B2 Distribuciones/p-value.md",
     "B Probabilidad y estadística/B2 Distribuciones/Media muestral.md",
@@ -221,22 +233,10 @@
     "B Probabilidad y estadística/B5 Remuestreo/Bootstrap con bloques por python.md",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Tau de Kendall.md",
     "B Probabilidad y estadística/B2 Distribuciones/TLC.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/zypvalue.py",
-    "B Probabilidad y estadística/B2 Distribuciones/Z mayor o igual a 1.96.md",
-    "B Probabilidad y estadística/B2 Distribuciones",
     "B Probabilidad y estadística/B2 Distribuciones.md",
     "B Probabilidad y estadística/B1 Probabilidad básica/Ejemplo completo.md",
     "B Probabilidad y estadística/B1 Probabilidad básica/Correlación.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/CorrelacionC.py",
     "B Probabilidad y estadística/B1 Probabilidad básica/Covarianza.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Media vs esperanza.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/VarianzaDesviacion.py",
-    "B Probabilidad y estadística/B1 Probabilidad básica/EsperanzaE.py",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional.py",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probacondicional-py",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Probabilidadado.py",
-    "B Probabilidad y estadística/B1 Probabilidad básica",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Rangos2.py",
     "Sin título.canvas",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
