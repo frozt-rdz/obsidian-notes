@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f67157e7b1aa83",
+        "id": "2a37512e0dd32fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "155d823d2efe0199",
+            "id": "7e5c91322b71418f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B2 Distribuciones/Distribución normal.md",
+                "file": "Ejemplo_Correlacion_de_Pearson (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distribución normal"
+              "title": "Ejemplo_Correlacion_de_Pearson (1)"
             }
           }
         ]
@@ -200,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d442d699e2e5bdd",
+  "active": "7e5c91322b71418f",
   "lastOpenFiles": [
-    "Series Temporales en Ciencia de Datos.md",
+    "Ejemplo_Correlacion_de_Pearson (1).md",
     "B Probabilidad y estadística/B2 Distribuciones/Distribución normal.md",
+    "Series Temporales en Ciencia de Datos.md",
     "B Probabilidad y estadística/B1 Probabilidad básica/Correlación.md",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.md",
     "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf.crswap",
@@ -237,7 +238,6 @@
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Tau de Kendall.md",
     "B Probabilidad y estadística/B2 Distribuciones/TLC.md",
     "B Probabilidad y estadística/B2 Distribuciones.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Ejemplo completo.md",
     "Sin título.canvas",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
