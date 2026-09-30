@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b994bc9902e85c5",
+            "id": "155d823d2efe0199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.md",
+                "file": "B Probabilidad y estadística/B2 Distribuciones/Distribución normal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kendall"
+              "title": "Distribución normal"
             }
           }
         ]
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.83331298828125
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +202,10 @@
   },
   "active": "9d442d699e2e5bdd",
   "lastOpenFiles": [
+    "Series Temporales en Ciencia de Datos.md",
+    "B Probabilidad y estadística/B2 Distribuciones/Distribución normal.md",
+    "B Probabilidad y estadística/B1 Probabilidad básica/Correlación.md",
+    "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.md",
     "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf.crswap",
     "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf",
     "Recursos SpaceApps/Papers/ast.2018.1838_copy.pdf.crswap",
@@ -211,13 +216,11 @@
     "Recursos SpaceApps/Temario y habilidad para Detective.pdf.crswap",
     "Recursos SpaceApps/Temario y habilidad para Detective.pdf",
     "Recursos SpaceApps/Papers",
-    "Sin nombre",
     "B Probabilidad y estadística/B2 Distribuciones/Z mayor o igual a 1.96.md",
     "B Probabilidad y estadística/B2 Distribuciones/Puntaje Z.md",
     "B Probabilidad y estadística/B2 Distribuciones/p-value.md",
     "B Probabilidad y estadística/B2 Distribuciones/Media muestral.md",
     "B Probabilidad y estadística/B2 Distribuciones/Introducción.md",
-    "B Probabilidad y estadística/B2 Distribuciones/Distribución normal.md",
     "B Probabilidad y estadística/B2 Distribuciones/Regla 68–95–99.7.md",
     "B Probabilidad y estadística/B1 Probabilidad básica/Python y probabilidad básica.md",
     "B Probabilidad y estadística/B1 Probabilidad básica/Resumen.md",
@@ -235,8 +238,6 @@
     "B Probabilidad y estadística/B2 Distribuciones/TLC.md",
     "B Probabilidad y estadística/B2 Distribuciones.md",
     "B Probabilidad y estadística/B1 Probabilidad básica/Ejemplo completo.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Correlación.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Covarianza.md",
     "Sin título.canvas",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
