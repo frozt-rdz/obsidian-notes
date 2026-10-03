@@ -1,3 +1,17 @@
+---
+tipo: estadistica
+estado: borrador
+dificultad: 2
+fecha: 2026-09-29
+prerequisitos:
+  - Media
+  - Desviación estándar
+reto: Climate Action / Air Quality & Biophysical Monitoring
+fuentes: []
+tags:
+  - space-apps
+  - flashcards
+---
 
 # Correlación de Pearson
 
@@ -51,6 +65,14 @@ $$
 
 > [!info] En palabras
 > El numerador suma qué tanto se mueven juntas las desviaciones respecto al promedio (positivo si coinciden en signo). El denominador las escala por la variación propia de cada variable, para que el resultado no dependa de las unidades.
+
+## Supuestos
+
+| Supuesto | Por qué importa | Cómo lo compruebo |
+|---|---|---|
+| Relación aproximadamente lineal | Pearson solo mide lo lineal | Gráfico de dispersión |
+| Sin valores atípicos extremos | Un solo punto puede cambiar $r$ | Revisar el gráfico |
+| Observaciones independientes | En series de tiempo casi nunca se cumple | Revisar autocorrelación |
 
 ## Ejemplo a mano
 
@@ -158,16 +180,18 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    M["[[Media]]"] -- "es base de" --> S["[[Desviación estándar]]"]
+    M["Media"] -- "es base de" --> S["Desviación estándar"]
     S -- "es base de" --> C(("Correlación de Pearson"))
-    C -- "se generaliza en" --> RL["[[Regresión lineal]]"]
-    C -- "alternativa si no es lineal" --> SP["[[Correlación de Spearman]]"]
+    C -- "se generaliza en" --> RL["Regresión lineal"]
+    C -- "alternativa si no es lineal" --> SP["Correlación de Spearman"]
     C -- "se calcula con" --> NP["np.corrcoef"]
     C -- "se usa en" --> N["NDVI vs precipitación"]
     C -. "no confundir con" .-> K["Causalidad"]
     classDef core fill:#1f6feb,stroke:#0b3d91,color:#ffffff
     class C core
 ```
+
+Enlaces: [[Desviación estándar]] → **Correlación de Pearson** → [[Regresión lineal]] · alternativa: [[Correlación de Spearman]]
 
 Pearson mide la fuerza de la relación lineal; la regresión usa esa relación para predecir.
 

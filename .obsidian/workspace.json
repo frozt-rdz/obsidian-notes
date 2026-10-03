@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a37512e0dd32fcb",
+        "id": "dea62f470f3f42b1",
         "type": "tabs",
         "children": [
           {
-            "id": "7e5c91322b71418f",
+            "id": "85abd8ea5f5445ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejemplo_Correlacion_de_Pearson (1).md",
-                "mode": "source",
+                "file": "A Matemáticas base/A.0 Índice del bloque A.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejemplo_Correlacion_de_Pearson (1)"
+              "title": "A.0 Índice del bloque A"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sea_level_trend.png",
+                "file": "A Matemáticas base/A.0 Índice del bloque A.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,17 +179,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "eff364df7bea1de0",
+            "type": "leaf",
+            "state": {
+              "type": "pivi-view",
+              "state": {},
+              "icon": "pivi-p",
+              "title": "Pivi"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 320.83331298828125
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pivi:Abrir Pivi": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -200,47 +210,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e5c91322b71418f",
+  "active": "9d442d699e2e5bdd",
   "lastOpenFiles": [
-    "Ejemplo_Correlacion_de_Pearson (1).md",
-    "B Probabilidad y estadística/B2 Distribuciones/Distribución normal.md",
-    "Series Temporales en Ciencia de Datos.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Correlación.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Kendall.md",
+    "A Matemáticas base/A2 Cálculo básico/A2.P Práctica A2.md",
+    "A Matemáticas base/A2 Cálculo básico/A2.3 Mínimos de una función y mínimos cuadrados.md",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.P Práctica A1.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.4 Proyección y residuos.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.5 Valores y vectores propios.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.6 Regresión lineal con NumPy.md",
+    "D Matemáticas espaciales/D.0 Introducción al bloque D.md",
+    "A Matemáticas base/A.0 Índice del bloque A.md",
+    "Plantillas/Plantilla_Data_Science_ML.md",
+    "conflict-files-obsidian-git.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.0 Índice A3.md",
+    "A Matemáticas base/A2 Cálculo básico/A2.0 Índice A2.md",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.0 Índice A1.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.P Práctica A3.md",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.6 Traducir fórmulas con sumatoria a código.md",
+    "A Matemáticas base/A2 Cálculo básico/A2.4 Tasa de cambio del nivel del mar.md",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.5 Mediana, cuantiles y rangos.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.1 Vectores y matrices.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.3 Mínimos cuadrados en forma matricial.md",
+    "A Matemáticas base/A3 Álgebra lineal/A3.2 Producto matricial y transpuesta.md",
+    "A Matemáticas base/A3 Álgebra lineal",
+    "A Matemáticas base/A2 Cálculo básico/A2.2 Integral como acumulado.md",
+    "A Matemáticas base/A2 Cálculo básico/A2.1 Derivada como tasa de cambio.md",
+    "A Matemáticas base/A2 Cálculo básico",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.4 Función signo.md",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.3 Logaritmos y exponenciales.md",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.2 Función lineal, pendiente e intercepto.md",
+    "A Matemáticas base/A1 Álgebra y funciones/A1.1 Notación de sumatoria y productos.md",
+    "A Matemáticas base/A1 Álgebra y funciones",
+    "D Matemáticas espaciales",
+    "A Matemáticas base",
+    "Plantillas",
+    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
+    "Recursos SpaceApps/Guia detective.pdf",
+    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png",
+    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
     "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf.crswap",
     "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf",
     "Recursos SpaceApps/Papers/ast.2018.1838_copy.pdf.crswap",
-    "Recursos SpaceApps/Papers/ast.2018.1838_copy.pdf",
-    "Recursos SpaceApps/Papers/ICES_SEXTANTpaper_2011-345_copy.pdf.crswap",
-    "Recursos SpaceApps/Papers/ICES_SEXTANTpaper_2011-345_copy.pdf",
-    "Recursos SpaceApps/Guia detective.pdf",
-    "Recursos SpaceApps/Temario y habilidad para Detective.pdf.crswap",
-    "Recursos SpaceApps/Temario y habilidad para Detective.pdf",
-    "Recursos SpaceApps/Papers",
-    "B Probabilidad y estadística/B2 Distribuciones/Z mayor o igual a 1.96.md",
-    "B Probabilidad y estadística/B2 Distribuciones/Puntaje Z.md",
-    "B Probabilidad y estadística/B2 Distribuciones/p-value.md",
-    "B Probabilidad y estadística/B2 Distribuciones/Media muestral.md",
-    "B Probabilidad y estadística/B2 Distribuciones/Introducción.md",
-    "B Probabilidad y estadística/B2 Distribuciones/Regla 68–95–99.7.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Python y probabilidad básica.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Resumen.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Variable aleatoria.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Varianza.md",
-    "B Probabilidad y estadística/B1 Probabilidad básica/Esperanza.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Autocorrelación.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap para una pendiente.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Ejemplo completo.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Relación Detective.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Remuestro.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap.md",
-    "B Probabilidad y estadística/B5 Remuestreo/Bootstrap con bloques por python.md",
-    "B Probabilidad y estadística/B6 Métodos no paramétricos/Tau de Kendall.md",
-    "B Probabilidad y estadística/B2 Distribuciones/TLC.md",
-    "B Probabilidad y estadística/B2 Distribuciones.md",
-    "Sin título.canvas",
-    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
-    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
-    "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png"
+    "Sin título.canvas"
   ]
 }
