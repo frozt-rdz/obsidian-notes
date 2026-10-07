@@ -1,0 +1,17 @@
+{
+  "P1.1": "instrucción; comentario; variable; tipos; operadores; print; f-string; conversión; abs; assert; tolerancia",
+  "P1.2": "if; elif; else; and; or; not; in; lista literal; for; range; while; acumuladores; +=; ampliación break continue",
+  "P1.3": "def; parámetro; argumento; valor por defecto; return; docstring; alcance; append; tupla; desempaquetado; ampliación lambda",
+  "P2.1": "índices; slicing; len; copy; alias; métodos de lista; diccionario; get; items; conjuntos; split; strip; join",
+  "P2.2": "comprensiones; zip; enumerate; sorted key; min max sum any all; objeto; atributo; método; dir help; ampliación lectura de namedtuple y dataclass",
+  "P2.3": "import; from; alias; pip; Path; with open; read write; CSV; try except; raise; math statistics datetime random; ampliación módulo propio",
+  "P3.1": "ndarray; array arange linspace zeros; dtype shape ndim size; reshape; índice 2D; máscara; vista; array_equal allclose",
+  "P3.2": "vectorización; broadcasting; axis; nan; nanmean; isnan isfinite; where diff; sin cos deg2rad pi average; default_rng normal; round; ampliación perf_counter",
+  "P3.3": "Figure Axes; subplots; plot scatter bar hist; set; legend; colores; vmin vmax; ampliación imshow pcolormesh savefig close",
+  "P4.1": "pandas; Series DataFrame; StringIO; read_csv; head info describe; loc iloc; columnas; isna dropna fillna",
+  "P4.2": "to_datetime; dt; date_range; DatetimeIndex; set_index sort_index; resample MS ME YE; groupby mean; map; count where; notna; to_list; ampliación rolling",
+  "P4.3": "groupby agg; concat; merge validate; sort_values; reset_index; to_csv; tasa entre extremos; ampliación pivot_table",
+  "P5.1": "SciPy; linregress atributos; theilslopes; kendalltau; máscaras & | ~; ampliación pymannkendall y statsmodels OLS",
+  "P5.2": "xarray; DataArray Dataset; dims coords attrs sizes; sel isel nearest slice; mean dim; groupby time.month; where plot; NetCDF load; ampliación weighted resample",
+  "P5.3": "traceback; depuración; reproducibilidad; requirements; Git init status add commit ramas; gitignore README; ampliación pytest perf_counter"
+}

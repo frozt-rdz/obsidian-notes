@@ -1,0 +1,159 @@
+{
+  "fecha": "2026-10-07",
+  "fuentes": [
+    {
+      "nombre": "Python",
+      "url": "https://docs.python.org/3/tutorial/",
+      "proposito": "Sintaxis, colecciones y módulos",
+      "status": 200,
+      "url_final": "https://docs.python.org/3/tutorial/"
+    },
+    {
+      "nombre": "venv 3.13",
+      "url": "https://docs.python.org/3.13/tutorial/venv.html",
+      "proposito": "Entornos y pip",
+      "status": 200,
+      "url_final": "https://docs.python.org/3.13/tutorial/venv.html"
+    },
+    {
+      "nombre": "NumPy",
+      "url": "https://numpy.org/doc/stable/user/",
+      "proposito": "Arreglos y broadcasting",
+      "status": 200,
+      "url_final": "https://numpy.org/doc/stable/user/"
+    },
+    {
+      "nombre": "pandas",
+      "url": "https://pandas.pydata.org/docs/user_guide/",
+      "proposito": "Tablas y faltantes",
+      "status": 200,
+      "url_final": "https://pandas.pydata.org/docs/user_guide/"
+    },
+    {
+      "nombre": "pandas 2.3 temporal",
+      "url": "https://pandas.pydata.org/pandas-docs/version/2.3/user_guide/timeseries.html",
+      "proposito": "MS, ME, YE",
+      "status": 200,
+      "url_final": "https://pandas.pydata.org/pandas-docs/version/2.3/user_guide/timeseries.html"
+    },
+    {
+      "nombre": "Matplotlib",
+      "url": "https://matplotlib.org/stable/",
+      "proposito": "Figure y Axes",
+      "status": 200,
+      "url_final": "https://matplotlib.org/stable/"
+    },
+    {
+      "nombre": "SciPy",
+      "url": "https://docs.scipy.org/doc/scipy/",
+      "proposito": "Contratos científicos",
+      "status": 200,
+      "url_final": "https://docs.scipy.org/doc/scipy/"
+    },
+    {
+      "nombre": "linregress",
+      "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html",
+      "proposito": "Campos de regresión",
+      "status": 200,
+      "url_final": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html"
+    },
+    {
+      "nombre": "theilslopes",
+      "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.theilslopes.html",
+      "proposito": "Pendiente robusta",
+      "status": 200,
+      "url_final": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.theilslopes.html"
+    },
+    {
+      "nombre": "kendalltau",
+      "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kendalltau.html",
+      "proposito": "Asociación por rangos",
+      "status": 200,
+      "url_final": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kendalltau.html"
+    },
+    {
+      "nombre": "xarray",
+      "url": "https://docs.xarray.dev/",
+      "proposito": "Arreglos etiquetados y NetCDF",
+      "status": 200,
+      "url_final": "https://docs.xarray.dev/en/stable/"
+    },
+    {
+      "nombre": "Project Pythia",
+      "url": "https://foundations.projectpythia.org/",
+      "proposito": "Geociencias",
+      "status": 200,
+      "url_final": "https://foundations.projectpythia.org/"
+    },
+    {
+      "nombre": "Python Data Science Handbook",
+      "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+      "proposito": "Refuerzo científico",
+      "status": 200,
+      "url_final": "https://jakevdp.github.io/PythonDataScienceHandbook/"
+    },
+    {
+      "nombre": "Colab FAQ",
+      "url": "https://research.google.com/colaboratory/faq.html",
+      "proposito": "Notebook alojado",
+      "status": 200,
+      "url_final": "https://research.google.com/colaboratory/faq.html"
+    },
+    {
+      "nombre": "Abrir Colab",
+      "url": "https://colab.research.google.com/notebooks/intro.ipynb",
+      "proposito": "Puede solicitar sesión",
+      "status": 200,
+      "url_final": "https://colab.research.google.com/notebooks/intro.ipynb"
+    },
+    {
+      "nombre": "VS Code",
+      "url": "https://code.visualstudio.com/docs/python/environments",
+      "proposito": "Seleccionar intérprete",
+      "status": 200,
+      "url_final": "https://code.visualstudio.com/docs/python/environments"
+    },
+    {
+      "nombre": "Jupyter",
+      "url": "https://jupyter.org/install",
+      "proposito": "Instalar notebook",
+      "status": 200,
+      "url_final": "https://jupyter.org/install"
+    },
+    {
+      "nombre": "conda",
+      "url": "https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html",
+      "proposito": "Crear entornos",
+      "status": 200,
+      "url_final": "https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html"
+    },
+    {
+      "nombre": "statsmodels",
+      "url": "https://www.statsmodels.org/stable/regression.html",
+      "proposito": "OLS",
+      "status": 200,
+      "url_final": "https://www.statsmodels.org/stable/regression.html"
+    },
+    {
+      "nombre": "pyMannKendall",
+      "url": "https://github.com/mmhs013/pyMannKendall",
+      "proposito": "original_test",
+      "status": 200,
+      "url_final": "https://github.com/mmhs013/pyMannKendall"
+    },
+    {
+      "nombre": "Git",
+      "url": "https://git-scm.com/docs/gittutorial",
+      "proposito": "Versiones locales",
+      "status": 200,
+      "url_final": "https://git-scm.com/docs/gittutorial"
+    },
+    {
+      "nombre": "pytest",
+      "url": "https://docs.pytest.org/en/stable/getting-started.html",
+      "proposito": "Prueba básica",
+      "status": 200,
+      "url_final": "https://docs.pytest.org/en/stable/getting-started.html"
+    }
+  ]
+}

@@ -79,7 +79,7 @@ fig.tight_layout()
 "axhline traza una referencia horizontal y tight_layout ajusta márgenes. Se explican aquí antes de usarlos.")
 stage("Núcleo",15,"Conclusión de cinco líneas",
 "Escribe conclusion con cinco líneas: pregunta, datos, método, resultado y límite. Incluye la tasa estimada de Sierra, unidad, 21 años válidos y advertencia de datos simulados. splitlines separa un texto en líneas.",
-'''
+r'''
 sierra = tabla.loc[tabla["region"]=="Sierra", "tasa_decada"].iloc[0]
 conclusion = (
     "Pregunta: ¿qué región muestra mayor tasa de cambio?\n"
@@ -144,7 +144,7 @@ archivo_mapa.to_netcdf("tasa_mapa_simulada.nc", engine="netcdf4")
 "to_dataset asigna nombre a una variable para exportarla; cbar_kwargs configura la barra de color.")
 stage("Ampliación",20,"README y repositorio local",
 "Crea repo_simulado con README.md y .gitignore. Inicializa Git local con git init y consulta status mediante subprocess.run, que ejecuta una lista de argumentos externos; check=True detecta fallo. No ejecutes commit ni push. shutil.which detecta si Git está disponible; si falta, conserva los documentos.",
-'''
+r'''
 from pathlib import Path
 import subprocess
 import shutil
@@ -169,7 +169,7 @@ if git_disponible:
 "Este repositorio de práctica no contiene commits. Si falta Git, la rúbrica deja la inicialización pendiente.")
 stage("Ampliación",20,"Entrega reproducible",
 "Repite el generador con la misma semilla, verifica igualdad y agrega al README las versiones reales. importlib.metadata.version consulta la versión de una distribución instalada. Deja plan_git como texto con add y commit para lectura, sin ejecutarlo.",
-'''
+r'''
 from importlib.metadata import version
 replica = serie_mensual(faltantes=True)
 original = serie_mensual(faltantes=True)

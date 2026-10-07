@@ -520,7 +520,7 @@ print(f"r={r.rvalue:.4f}; p={r.pvalue:.3g}; stderr={r.stderr:.4f}")
 print(f"Theil={robusto.slope:.4f}; tau={tau.statistic:.4f}")
 ''',
 [("slope × 10", "Tasa", "°C/década"), ("intercept", "Nivel en el origen", "°C"), ("pvalue", "Probabilidad bajo hipótesis nula y supuestos", "sin unidad"), ("stderr", "Incertidumbre del estimador", "°C/año")],
-'from scipy.stats import linregress\nlinregress([2000, 2000], [14.0, 14.2])', '❌ No hay variación temporal para estimar pendiente. ✅ Revisa años distintos, longitud suficiente y pares válidos antes de ajustar.',
+'from scipy.stats import linregress\nlinregress([2000, 2001], [14.0, 14.2, 14.3])', '❌ Los años y valores tienen distinta longitud. ✅ Conserva pares válidos y años distintos. En SciPy 1.18.1, años constantes pueden devolver NaN con advertencias en vez de detenerse: valida antes.',
 ["Predice las unidades de 10 * r.slope.", "Corrige intercambiar x e y en theilslopes.", "Completa una máscara común para x e y."],
 '''decada = 10 * r.slope
 assert 0.15 < decada < 0.25, "Tasa simulada cercana a 0.2"
@@ -602,3 +602,15 @@ assert media_explicita([2, 4]) == 3, "Sin globales"
 [("¿Por dónde leo un traceback?", "Tipo y mensaje final, luego mi línea más cercana"), ("¿Qué fija una semilla?", "La secuencia pseudoaleatoria bajo el mismo entorno"), ("¿Git add crea una versión?", "No; prepara cambios para un commit posterior")],
 "Delgado Quintero, 2022, cap. 6, §§6.3–6.4, pp. 280–294; Garcimartín, 2022, Python básico, §9, pp. 12–13, para funciones. Git y pytest: documentación oficial.",
 "traceback; depuración; reproducibilidad; requirements; Git init status add commit ramas; gitignore README; ampliación pytest perf_counter")
+
+# Aclaraciones breves antes de ejecutar los ejemplos o ejercicios relacionados.
+CONCEPTS[3]["theory"] += "\nLa comparación x is None pregunta identidad con el objeto de ausencia; is not None la niega."
+CONCEPTS[4]["theory"] += "\nlist(recorrido) recoge un recorrido en una lista; reverse=True invierte el orden en sorted."
+CONCEPTS[7]["theory"] += "\nnp.round(x,2) redondea a dos decimales para presentar; no cambies datos analíticos solo para ocultar ruido."
+CONCEPTS[9]["theory"] += "\nnotna() es la máscara de valores presentes; pd.isna(valor) comprueba ausencia en un valor aislado."
+CONCEPTS[10]["theory"] += '\npd.date_range(inicio, periods=n, freq="MS") crea n fechas al inicio de cada mes. to_list() devuelve una lista y round(2) redondea la presentación.'
+CONCEPTS[13]["theory"] += "\ncbar_kwargs configura la escala de color de plot; el campo label define su etiqueta."
+CONCEPTS[0]["errors_extra"] = [
+    ("temperatura =", "SyntaxError: falta la expresión a la derecha de la asignación; escribe temperatura = 14.0."),
+    ("print(temperatura_no_definida)", "NameError: ese nombre no fue definido; asigna su valor antes de usarlo."),
+]

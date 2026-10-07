@@ -1,0 +1,140 @@
+{
+  "errores": [],
+  "avisos": [],
+  "codigo_bloques": 695,
+  "ejercicios": 106,
+  "notebooks": [
+    {
+      "nombre": "P1_Fundamentos.ipynb",
+      "ejercicios": 21,
+      "estado": "válido y ejecutado con soluciones"
+    },
+    {
+      "nombre": "P2_Estructuras_y_herramientas.ipynb",
+      "ejercicios": 22,
+      "estado": "válido y ejecutado con soluciones"
+    },
+    {
+      "nombre": "P3_NumPy_y_visualizacion.ipynb",
+      "ejercicios": 22,
+      "estado": "válido y ejecutado con soluciones"
+    },
+    {
+      "nombre": "P4_pandas_y_series_de_tiempo.ipynb",
+      "ejercicios": 22,
+      "estado": "válido y ejecutado con soluciones"
+    },
+    {
+      "nombre": "P5_Python_cientifico.ipynb",
+      "ejercicios": 8,
+      "estado": "válido y ejecutado con soluciones"
+    },
+    {
+      "nombre": "PZ_Proyecto_integrador.ipynb",
+      "ejercicios": 11,
+      "estado": "válido y ejecutado con soluciones"
+    }
+  ],
+  "longitudes": {
+    "P1.1 Primeros pasos, variables y tipos": 63,
+    "P1.2 Decisiones y repeticiones": 56,
+    "P1.3 Funciones": 56,
+    "P2.1 Listas, tuplas, diccionarios y conjuntos": 58,
+    "P2.2 Comprensiones, objetos y herramientas útiles": 58,
+    "P2.3 Archivos, errores y módulos": 56,
+    "P3.1 Arreglos NumPy": 55,
+    "P3.2 Vectorización, broadcasting y NaN": 57,
+    "P3.3 Gráficas con matplotlib": 71,
+    "P4.1 Series y DataFrames": 57,
+    "P4.2 Fechas, remuestreo y anomalías": 65,
+    "P4.3 Agrupar y resumir": 56,
+    "P5.1 SciPy, llamar y leer resultados": 58,
+    "P5.2 xarray y NetCDF": 65,
+    "P5.3 Depuración, Git y código reproducible": 59
+  },
+  "tiempos": [
+    {
+      "dia": 1,
+      "ejercicios_nucleo": 13,
+      "ejercicios_ampliacion": 8,
+      "min_ejercicios_nucleo": 125,
+      "min_ejercicios_ampliacion": 150,
+      "nucleo": 240,
+      "ampliacion": 240,
+      "plan": 240,
+      "tierra_min": 40
+    },
+    {
+      "dia": 2,
+      "ejercicios_nucleo": 14,
+      "ejercicios_ampliacion": 8,
+      "min_ejercicios_nucleo": 140,
+      "min_ejercicios_ampliacion": 150,
+      "nucleo": 240,
+      "ampliacion": 240,
+      "plan": 240,
+      "tierra_min": 50
+    },
+    {
+      "dia": 3,
+      "ejercicios_nucleo": 14,
+      "ejercicios_ampliacion": 8,
+      "min_ejercicios_nucleo": 140,
+      "min_ejercicios_ampliacion": 150,
+      "nucleo": 240,
+      "ampliacion": 240,
+      "plan": 240,
+      "tierra_min": 50
+    },
+    {
+      "dia": 4,
+      "ejercicios_nucleo": 14,
+      "ejercicios_ampliacion": 8,
+      "min_ejercicios_nucleo": 140,
+      "min_ejercicios_ampliacion": 150,
+      "nucleo": 240,
+      "ampliacion": 240,
+      "plan": 240,
+      "tierra_min": 50
+    },
+    {
+      "dia": 5,
+      "ejercicios_nucleo": 5,
+      "ejercicios_ampliacion": 3,
+      "min_ejercicios_nucleo": 45,
+      "min_ejercicios_ampliacion": 60,
+      "nucleo": 240,
+      "ampliacion": 240,
+      "plan": 240,
+      "tierra_min": 15
+    }
+  ],
+  "figuras": [
+    {
+      "nombre": "fig_P3_3_mapa.png",
+      "bytes": 17431
+    },
+    {
+      "nombre": "fig_P3_3_serie.png",
+      "bytes": 26972
+    },
+    {
+      "nombre": "fig_P4_2_anomalias.png",
+      "bytes": 48574
+    },
+    {
+      "nombre": "fig_P5_2_malla.png",
+      "bytes": 18216
+    },
+    {
+      "nombre": "fig_PD_componentes.png",
+      "bytes": 64416
+    },
+    {
+      "nombre": "fig_PZ_proyecto.png",
+      "bytes": 52438
+    }
+  ],
+  "orden_pedagogico": "Mapa explícito por nota; ejercicios tras las tres notas del día. Diagnóstico y soporte suministrado rotulados. Revisión manual complementaria.",
+  "pytest": ".                                                                        [100%]\n1 passed in 0.02s"
+}
