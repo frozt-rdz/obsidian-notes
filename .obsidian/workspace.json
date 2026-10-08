@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ced348619947df6d",
+        "id": "2f0b0d75870e2316",
         "type": "tabs",
         "children": [
           {
-            "id": "5e939b8b1eaadd9f",
+            "id": "8b4584f19596ca45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D Matemáticas espaciales/D.0 Introducción al bloque D.md",
-                "mode": "source",
+                "file": "P Python desde cero/P3 NumPy y visualización/P3.1 Arreglos NumPy.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D.0 Introducción al bloque D"
+              "title": "P3.1 Arreglos NumPy"
             }
           }
         ]
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.83331298828125
+    "width": 320.83331298828125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +210,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e939b8b1eaadd9f",
+  "active": "8b4584f19596ca45",
   "lastOpenFiles": [
+    "P Python desde cero/P1 Fundamentos del lenguaje/P1.E Ejercicios P1.md",
+    "P Python desde cero/P1 Fundamentos del lenguaje/P1.3 Funciones.md",
+    "P Python desde cero/P1 Fundamentos del lenguaje/P1.2 Decisiones y repeticiones.md",
+    "P Python desde cero/P1 Fundamentos del lenguaje/P1.1 Primeros pasos, variables y tipos.md",
+    "P Python desde cero/P1 Fundamentos del lenguaje/P1.0 Índice P1.md",
+    "P Python desde cero/P.Z Proyecto integrador.md",
+    "P Python desde cero/P.D Datos sintéticos de práctica.md",
+    "P Python desde cero/P.B Bibliografía y plan de lectura.md",
+    "P Python desde cero/P.0 Empezar aquí.md",
+    "P Python desde cero/assets/INFORME_ENTREGA.md",
+    "P Python desde cero/assets/fig_PZ_proyecto.png",
+    "P Python desde cero/assets/fig_PD_componentes.png",
+    "P Python desde cero/assets/fig_P5_2_malla.png",
+    "P Python desde cero/assets/fig_P4_2_anomalias.png",
+    "P Python desde cero/assets/fig_P3_3_serie.png",
+    "P Python desde cero/assets/fig_P3_3_mapa.png",
+    "D Matemáticas espaciales/D.0 Introducción al bloque D.md",
     "A Matemáticas base/A.0 Índice del bloque A.md",
     "B Probabilidad y estadística/B6 Métodos no paramétricos/Wilcoxon.md",
     "A Matemáticas base/A1 Álgebra y funciones/A1.1 Notación de sumatoria y productos.md",
@@ -221,24 +239,13 @@
     "A Matemáticas base/A3 Álgebra lineal/A3.4 Proyección y residuos.md",
     "A Matemáticas base/A3 Álgebra lineal/A3.5 Valores y vectores propios.md",
     "A Matemáticas base/A3 Álgebra lineal/A3.6 Regresión lineal con NumPy.md",
-    "D Matemáticas espaciales/D.0 Introducción al bloque D.md",
     "Plantillas/Plantilla_Data_Science_ML.md",
     "conflict-files-obsidian-git.md",
     "A Matemáticas base/A3 Álgebra lineal/A3.0 Índice A3.md",
     "A Matemáticas base/A2 Cálculo básico/A2.0 Índice A2.md",
     "A Matemáticas base/A3 Álgebra lineal/A3.P Práctica A3.md",
-    "A Matemáticas base/A1 Álgebra y funciones/A1.6 Traducir fórmulas con sumatoria a código.md",
-    "A Matemáticas base/A2 Cálculo básico/A2.4 Tasa de cambio del nivel del mar.md",
-    "A Matemáticas base/A1 Álgebra y funciones/A1.5 Mediana, cuantiles y rangos.md",
-    "A Matemáticas base/A3 Álgebra lineal/A3.1 Vectores y matrices.md",
-    "A Matemáticas base/A3 Álgebra lineal/A3.3 Mínimos cuadrados en forma matricial.md",
-    "A Matemáticas base/A3 Álgebra lineal/A3.2 Producto matricial y transpuesta.md",
     "A Matemáticas base/A3 Álgebra lineal",
-    "A Matemáticas base/A2 Cálculo básico/A2.2 Integral como acumulado.md",
-    "A Matemáticas base/A2 Cálculo básico/A2.1 Derivada como tasa de cambio.md",
     "A Matemáticas base/A2 Cálculo básico",
-    "A Matemáticas base/A1 Álgebra y funciones/A1.4 Función signo.md",
-    "A Matemáticas base/A1 Álgebra y funciones/A1.3 Logaritmos y exponenciales.md",
     "A Matemáticas base/A1 Álgebra y funciones",
     "D Matemáticas espaciales",
     "A Matemáticas base",

@@ -27,11 +27,11 @@ aliases:
 
 # Bloque P — Python desde cero
 
-Para compañeros que nunca han programado y necesitan seguir código científico del Detective. En cinco días practicarás cargar → limpiar → anomalías → tendencia → mapa → compartir. La teoría estadística y espacial sigue en otros bloques.
+Para compañeros que nunca han programado y necesitan seguir código científico del Detective. La teoría estadística y espacial sigue en otros bloques.
 
 Ruta: concepto → Prueba tú → ejercicios en notebook → cierre. El notebook contiene los mismos ejercicios que la nota: se resuelven una vez. Todas las cifras y figuras son **simuladas**. El nombre del reto y el contexto NASA Space Apps 2026 proceden del encargo; no se presentan como convocatoria oficial verificada.
 
-## Plan de cinco días
+## Plan
 
 | Día | Subbloque | ◆ Núcleo 240 min | ➕ Ampliación 240 min |
 |---|---|---|---|

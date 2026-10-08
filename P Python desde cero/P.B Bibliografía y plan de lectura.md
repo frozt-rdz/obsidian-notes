@@ -31,7 +31,6 @@ aliases:
 
 **Garcimartín, A. (2022). *Introducción a Python para cálculo científico*. Sprinter Verlag.** PDF de 60 páginas físicas, ISBN 978-84-8081-728-8. Autor y editorial tal como aparecen; no se expande la inicial A. Portada interior y pie editorial verifican 2022. Archivo: `Recursos SpaceApps/Libros/python-calculo-cientifico.pdf`.
 
-Resumen útil para repasar sintaxis y pasar a arreglos y gráficos. Quien empieza de cero necesita las trazas y prácticas del bloque. Índice impreso p. 1 sin números de página: se verificaron los encabezados en el cuerpo. En el texto principal, página física PDF = página impresa + 3; no aplicar esta regla a anexos.
 
 **Delgado Quintero, S. (2022). *Aprende Python* [PDF, versión del 12 de diciembre de 2022].** Documento del autor, sin editorial identificada. PDF de 516 páginas físicas. Archivo: `Recursos SpaceApps/Libros/python-aprende-sergio-delgado-quintero.pdf`. Portada, metadatos e índice i–ii verifican autor, título, fecha y capítulos.
 
