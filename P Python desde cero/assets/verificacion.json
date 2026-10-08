@@ -136,5 +136,74 @@
     }
   ],
   "orden_pedagogico": "Mapa explícito por nota; ejercicios tras las tres notas del día. Diagnóstico y soporte suministrado rotulados. Revisión manual complementaria.",
-  "pytest": ".                                                                        [100%]\n1 passed in 0.02s"
+  "pytest": ".                                                                        [100%]\n1 passed in 0.02s",
+  "mermaid": {
+    "herramienta": "npx -y @mermaid-js/mermaid-cli",
+    "diagramas": 19,
+    "resultado": "Todos renderizados a SVG en carpeta temporal"
+  },
+  "generadores_notebooks": "Identidad literal comprobada con P.D en los seis notebooks",
+  "urls": {
+    "cantidad": 23,
+    "http_200": 23
+  },
+  "seguridad": {
+    "archivos_previos_en_destino": 0,
+    "commit_ejecutado": false,
+    "push_ejecutado": false,
+    "libros_plantillas": "Solo lectura"
+  },
+  "limitaciones": [
+    "No se abrió Obsidian para comprobar el renderizado final.",
+    "No se ejecutaron las seis sesiones dentro de Google Colab ni los comandos de instalación conda/VS Code; se contrastaron con sus documentos oficiales.",
+    "La duración es una estimación editorial, pendiente de prueba con principiantes.",
+    "La longitud informada cuenta el cuerpo sin bloques de código ni frontmatter YAML.",
+    "La revisión pedagógica incluye comprobación manual; no hay un analizador que pruebe exhaustivamente la familiaridad previa con toda API.",
+    "La eliminación del entorno y las cachés fue rechazada por la revisión automática con blocked by policy; siguen dentro del bloque. Las copias exitosas de notebooks con soluciones sí fueron descartadas por su contexto temporal."
+  ],
+  "resultado_proyecto_simulado": [
+    {
+      "region": "Sierra",
+      "tasa_decada": 0.37555437170441464,
+      "p_ols": 2.1727216359330913e-11,
+      "n_anios": 21,
+      "periodo": "2000–2023",
+      "base": "2000–2009",
+      "metodo": "OLS",
+      "unidad": "°C/década",
+      "origen": "simulado"
+    },
+    {
+      "region": "Costa",
+      "tasa_decada": 0.1720731306615897,
+      "p_ols": 1.1300687298665392e-06,
+      "n_anios": 21,
+      "periodo": "2000–2023",
+      "base": "2000–2009",
+      "metodo": "OLS",
+      "unidad": "°C/década",
+      "origen": "simulado"
+    },
+    {
+      "region": "Llanura",
+      "tasa_decada": -0.12537038132955874,
+      "p_ols": 5.0028269981796416e-05,
+      "n_anios": 21,
+      "periodo": "2000–2023",
+      "base": "2000–2009",
+      "metodo": "OLS",
+      "unidad": "°C/década",
+      "origen": "simulado"
+    }
+  ],
+  "limpieza_temporal": {
+    "estado": "bloqueada por revisión automática",
+    "respuesta": "blocked by policy",
+    "rutas_restantes": [
+      ".venv-temporal/",
+      ".trabajo-temporal/",
+      "assets/__pycache__/"
+    ],
+    "detalle": "Se rechazó tanto la eliminación recursiva de directorios propios como la eliminación explícita de archivos de caché. No se intentó otra vía."
+  }
 }

@@ -465,7 +465,7 @@ El panel requiere Dataview; los índices funcionan sin ese complemento.
     write("P.0 Empezar aquí.md",text)
 
 def supporting():
-    req="\n".join(f"{p}>={v}"+(",<3" if p in ["numpy","pandas"] else "") for p,v in VERSIONS.items() if p not in ["python","PyMuPDF"])
+    req="\n".join(f"{p}>={v}"+(",<3" if p in ["numpy","pandas"] else "") for p,v in VERSIONS.items() if p!="python")
     write("requirements.txt","# Verificado con Python "+VERSIONS["python"]+"\n# Bibliotecas docentes y de validación; NumPy 2.x y pandas 2.x.\n"+req)
     figscript='''"""Regenera las seis figuras originales dentro de assets."""
 from pathlib import Path
