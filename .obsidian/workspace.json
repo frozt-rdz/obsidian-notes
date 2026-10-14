@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Remuestro"
             }
+          },
+          {
+            "id": "fc8483be5278fc8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b4584f19596ca45",
+  "active": "fc8483be5278fc8e",
   "lastOpenFiles": [
     "B Probabilidad y estadística/B5 Remuestreo/Bootstrap para una pendiente.md",
     "0 Python desde 0/P.D Datos sintéticos de práctica.md",
