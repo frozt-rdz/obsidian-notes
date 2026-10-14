@@ -25,10 +25,14 @@
             "id": "fc8483be5278fc8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Introducción al Machine Learning/Dia 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Dia 1"
             }
           }
         ],
@@ -223,6 +227,8 @@
   },
   "active": "fc8483be5278fc8e",
   "lastOpenFiles": [
+    "Introducción al Machine Learning/Dia 1.md",
+    "Introducción al Machine Learning",
     "B Probabilidad y estadística/B5 Remuestreo/Bootstrap para una pendiente.md",
     "0 Python desde 0/P.D Datos sintéticos de práctica.md",
     "0 Python desde 0/P5 Python científico y buenas prácticas/P5.0 Índice P5.md",
@@ -254,7 +260,6 @@
     "A Matemáticas base/A1 Álgebra y funciones/A1.0 Índice A1.md",
     "A Matemáticas base/A2 Cálculo básico/A2.P Práctica A2.md",
     "A Matemáticas base/A2 Cálculo básico/A2.3 Mínimos de una función y mínimos cuadrados.md",
-    "A Matemáticas base/A1 Álgebra y funciones/A1.P Práctica A1.md",
     "A Matemáticas base/A3 Álgebra lineal",
     "A Matemáticas base/A2 Cálculo básico",
     "A Matemáticas base/A1 Álgebra y funciones",
@@ -267,7 +272,6 @@
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
     "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf.crswap",
     "Recursos SpaceApps/Papers/DJN_AJohnsonSPACEAUG2010_copy.pdf",
-    "Recursos SpaceApps/Papers/ast.2018.1838_copy.pdf.crswap",
     "Sin título.canvas"
   ]
 }
