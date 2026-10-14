@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción al Machine Learning/Dia 2.md",
+                "file": "Introducción al Machine Learning/ML_report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dia 2"
+              "title": "ML_report"
             }
           }
         ],
@@ -227,12 +227,13 @@
   },
   "active": "fc8483be5278fc8e",
   "lastOpenFiles": [
+    "Introducción al Machine Learning/Dia 1.md",
+    "Introducción al Machine Learning/Dia 2.md",
+    "Introducción al Machine Learning/ML_report.md",
     "Recursos SpaceApps/ML/Introduccion a ML Universidad Chile.pdf",
     "Recursos SpaceApps/ML/intro_ml.pdf",
     "Recursos SpaceApps/ML",
     "Recursos SpaceApps/New folder",
-    "Introducción al Machine Learning/Dia 1.md",
-    "Introducción al Machine Learning/Dia 2.md",
     "Introducción al Machine Learning",
     "B Probabilidad y estadística/B5 Remuestreo/Bootstrap para una pendiente.md",
     "0 Python desde 0/P.D Datos sintéticos de práctica.md",
@@ -268,7 +269,6 @@
     "A Matemáticas base/A1 Álgebra y funciones",
     "D Matemáticas espaciales",
     "A Matemáticas base",
-    "Plantillas",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/La pérdida (o función de costo) en la Regresión Lineal.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/sea_level_trend.png",
     "B Probabilidad y estadística/B4 Regresión lineal/Imagenes/ECM.png",
